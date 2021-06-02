@@ -6,9 +6,9 @@ git config--global url."https://github.com.cnpmjs.org/".insteadOf"https://github
 
 git checkout -b develop
 
-git branch -a
+git branch -a 然后就可以开发了
 
-git add.
+git add.开发完弄这个
 
 git commit -m "finished markdown"
 
